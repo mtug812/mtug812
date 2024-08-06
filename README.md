@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Marian 👋
 
-<!--
-**mtug812/mtug812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate International Business Informatics student with a keen interest in combining technology and business to solve complex problems. I'm currently pursuing my degree at Tehnische Hochschule Augsburg and have gained hands-on experience with technologies like Java, JavaScript, PostgreSQL, ABAP, and Postman during my studies.
 
-Here are some ideas to get you started:
+I love exploring innovative solutions and am eager to learn new skills, which I've cultivated through my academic journey and participation in several Erasmus+ Youth Exchange programs across Europe. My experiences at Abat Oliba CEU University in Barcelona have deepened my understanding of strategic management and innovation, enhancing my ability to work in multicultural environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Interests
+Gym, Volleyball, and Basketball
+Diving into psychoanalysis 
+
+🔭 What I'm Working On
+- The Odin Project
+- further developing my skills in the IT field
